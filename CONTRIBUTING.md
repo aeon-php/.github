@@ -30,6 +30,15 @@ Bug fixes should be sent to the latest one and then if possible to the 2 older v
 
 Don't forget to update CHANGELOG.md file according to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) guidelines.  
 
+## Pull Requests ✅
+
+Please make sure to provide description to every pull request you open. This makes maintainers life easier. 
+If possible provide a context for the change, if for example you need a new functionality in your project try to briefly explain your use case.
+Some changes might affect other libraries or other people code, if possible try to explain where and how your changes might break backward compatibility 
+so the maintainers can assign it to the right milestone (milestones represents new releases).
+
+Maintainers might ask you some additional questions before they proceed with code review, please be mindful, their time is limited and their work is free. 
+
 ## Questions 🔍
 
 Feel free to open issue with any questions you have regarding development. 
