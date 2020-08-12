@@ -4,8 +4,18 @@ If you are reading this we are already greateful for your time!
 
 ## Development 💻
 
-All requirements about dependencies are listed in composer.json file. Please make sure that 
-your development environmnent meet all requirements about PHP and extensions.
+PHP Versions required for development are available in composer.json in `require` section. 
+Beside PHP two other tools are required for development. 
+
+* [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos) 
+* [Phive](https://phar.io/#Install) 
+
+In order to project dependencies and tools please execute following commands in the root folder of the repository. 
+
+```bash
+composer install --prefer-dist
+phive install
+```
 
 ## Tests & Metrics 📊
 
