@@ -14,7 +14,7 @@ In order to project dependencies and tools please execute following commands in 
 
 ```bash
 composer install --prefer-dist
-phive install
+phive install --force-accept-unsigned
 ```
 
 ## Tests & Metrics 📊
