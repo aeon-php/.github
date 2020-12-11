@@ -4,13 +4,18 @@ If you are reading this we are already greateful for your time!
 
 ## Development 💻
 
-PHP Versions required for development are available in composer.json in `require` section. 
+Supported Operating Systems
+
+* MacOS 
+* Linux 
+
+PHP Version required for development is defined in composer.json in `require` section. It's always the minimum supported version.
 Beside PHP two other tools are required for development. 
 
 * [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos) 
 * [Phive](https://phar.io/#Install) 
 
-In order to project dependencies and tools please execute following commands in the root folder of the repository. 
+In order to install dependencies and tools please execute following commands in the root folder of the repository. 
 
 ```bash
 composer install --prefer-dist
