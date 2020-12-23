@@ -13,6 +13,10 @@
   <ul id="changed">
     <!-- <li>Something into something new</li> -->
   </ul>  
+  <h4>Removed</h4>
+  <ul id="removed">
+    <!-- <li>Something</li> -->
+  </ul>
   <h4>Deprecated</h4>
   <ul id="deprecated">
     <!-- <li>Something is from now deprecated</li> -->
