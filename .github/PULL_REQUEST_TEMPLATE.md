@@ -13,6 +13,10 @@
   <ul id="changed">
     <!-- <li>Something into something new</li> -->
   </ul>  
+  <h4>Updated</h4>
+  <ul id="updated">
+    <!-- <li>Something, for example, version of dependency</li> -->
+  </ul>    
   <h4>Removed</h4>
   <ul id="removed">
     <!-- <li>Something</li> -->
