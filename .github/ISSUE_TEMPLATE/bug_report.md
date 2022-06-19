@@ -7,13 +7,11 @@ assignees: ''
 
 ---
 
-<!-- Looking for help? Please visit our official forum at https://forum.aeon-php.org/ - github issues are only for bug reports -->
-
 **Describe the bug**
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the bug is. -->
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- A clear and concise description of what you expected to happen. -->
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
