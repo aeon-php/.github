@@ -10,4 +10,4 @@ Aeon is an attempt to provide fully object oriented abstraction over DateTime an
 
 ## Community 
 
-Let us know what you are thinking about through [:octocat: Discussions](https://github.com/aeon-php/.github/discussions)! 
+Let us know what you are thinking about through [:octocat: Discussions](https://github.com/aeon-php/calendar/discussions)! 
