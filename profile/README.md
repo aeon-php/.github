@@ -6,7 +6,7 @@ Aeon is an attempt to provide fully object oriented abstraction over DateTime an
 
 * 7.4 - ✅
 * 8.0 - ✅
-* 8.1 - in progress ⚙️
+* 8.1 - ✅
 
 ## Community 
 
