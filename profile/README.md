@@ -4,9 +4,8 @@ Aeon is an attempt to provide fully object oriented abstraction over DateTime an
 
 ## Supported PHP Versions
 
-* 7.4 - ✅
-* 8.0 - ✅
 * 8.1 - ✅
+* 8.2 - ✅
 
 ## Community 
 
